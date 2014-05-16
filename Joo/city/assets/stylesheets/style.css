@@ -1,0 +1,43 @@
+header {
+	text-align: center;
+	margin: 0 auto;
+	position: fixed;
+	width: 100%;
+	background-color: white;
+	top: 0;
+}
+
+
+header li {
+	list-style: none;
+	padding: 0;
+	display: inline-block;
+	margin: 0px 20px;
+
+}
+
+header ul {
+	padding: 0;
+}
+
+header a {
+	text-decoration: none;
+	color: black;
+}
+
+header a:hover {
+	color: blue;
+	font-size: 1.2em;
+}
+
+div img {
+	width: 100%;
+}
+
+.body {
+	width: 80%;
+	max-width: 1000px;
+	display: block;
+	margin: 114px auto 0 auto;
+}
+
